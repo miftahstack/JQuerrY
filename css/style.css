@@ -24,7 +24,10 @@
 }
 
 .FIFA{
-    padding: 20px 50px;
+    margin-top: 200px;
+    padding: 20px 70px;
+    border-radius: 10px;
+    gap: 20px;
     background: #E82561;
     color: #fff;
     display: inline-block;

@@ -1,0 +1,32 @@
+/* Basic CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Basic CSS Reset */
+
+/* Banner Part Start */
+#banner_part{
+    background: url(../images/pexels-jj-jordan-44924743-9241927.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+    
+.banner_overly{
+    background: rgba(0, 0, 0, 0.500);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+}
+
+.FIFA{
+    padding: 20px 50px;
+    background: #E82561;
+    color: #fff;
+    display: inline-block;
+}
+/* Banner Part Ends */

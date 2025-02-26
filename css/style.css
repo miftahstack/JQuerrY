@@ -12,7 +12,14 @@ a,a:hover{
 
 /* Banner Part Start */
 #banner_part{
-    background: url(../images/pexels-jj-jordan-44924743-9241927.jpg);
+    background: url(../images/Cricket.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+#banner_part_two{
+    background: url(../images/FootBall.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

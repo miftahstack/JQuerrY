@@ -4,6 +4,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+a,a:hover{
+    text-decoration: none;
+}
 /* Basic CSS Reset */
 
 /* Banner Part Start */
@@ -22,14 +26,17 @@
     background-position: center;
     height: 800px;
 }
-
-.FIFA{
-    margin-top: 200px;
+.btn_margin{
+padding-top: 200px;
+padding-left: 500px
+}
+.Sports{
+    margin-right: 10px;
     padding: 20px 70px;
     border-radius: 10px;
-    gap: 20px;
     background: #E82561;
     color: #fff;
     display: inline-block;
+    cursor: pointer;
 }
 /* Banner Part Ends */

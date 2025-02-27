@@ -8,42 +8,28 @@
 a,a:hover{
     text-decoration: none;
 }
+body{
+    background: #fdf0d5;
+}
 /* Basic CSS Reset */
 
 /* Banner Part Start */
-#banner_part{
-    background: url(../images/Cricket.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-
-}
-#banner_part_two{
-    background: url(../images/FootBall.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-
-}
-    
-.banner_overly{
-    background: rgba(0, 0, 0, 0.500);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 800px;
-}
-.btn_margin{
-padding-top: 200px;
-padding-left: 500px
-}
-.Sports{
-    margin-right: 10px;
-    padding: 20px 70px;
+button{
+    height: 50px;
+    width: 120px;
+    background: #003049;
+    color: white;
+    margin-top: 20px;
+    border: none;
     border-radius: 10px;
-    background: #E82561;
-    color: #fff;
-    display: inline-block;
-    cursor: pointer;
+}
+
+.Box{
+    background-color: brown;
+    padding: 50px;
+    width: 287px;
+    height: 215px;
+    margin-top: 25px;
+    border-radius: 10px;
 }
 /* Banner Part Ends */

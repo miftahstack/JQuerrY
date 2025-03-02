@@ -2,9 +2,10 @@ $(function(){
     $("#show").click(function(){
         $(".box").show(1000)
     })
-})
-$(function(){
-$("#hide").click(function(){
+    $("#hide").click(function(){
         $(".box").hide(1000)
+    })
+    $("#showhide").click(function(){
+        $(".box").toggle(1000)
     })
 })

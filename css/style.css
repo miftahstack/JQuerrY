@@ -5,20 +5,32 @@
     box-sizing: border-box;
 }
 
-a,a:hover{
+a,
+a:hover {
     text-decoration: none;
 }
 
 /* Basic CSS Reset */
 
 /* Banner Part Start */
-#banner{
+#banner {
     padding: 50px 0px;
     background: #fff;
     height: 350px;
 }
 
-.btn{
+.btn {
     border-radius: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
 }
+
+.box {
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: mediumspringgreen;
+}
+
 /* Banner Part Ends */

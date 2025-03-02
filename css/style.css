@@ -13,8 +13,12 @@ a,a:hover{
 
 /* Banner Part Start */
 #banner{
-    padding: 100px 0px;
-    background: teal;
+    padding: 50px 0px;
+    background: #fff;
     height: 350px;
+}
+
+.btn{
+    border-radius: 10px;
 }
 /* Banner Part Ends */

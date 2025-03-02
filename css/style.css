@@ -8,28 +8,9 @@
 a,a:hover{
     text-decoration: none;
 }
-body{
-    background: #fdf0d5;
-}
+
 /* Basic CSS Reset */
 
 /* Banner Part Start */
-button{
-    height: 50px;
-    width: 120px;
-    background: #003049;
-    color: white;
-    margin-top: 20px;
-    border: none;
-    border-radius: 10px;
-}
 
-.Box{
-    background-color: brown;
-    padding: 50px;
-    width: 287px;
-    height: 215px;
-    margin-top: 25px;
-    border-radius: 10px;
-}
 /* Banner Part Ends */

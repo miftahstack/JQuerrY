@@ -12,5 +12,8 @@ a,a:hover{
 /* Basic CSS Reset */
 
 /* Banner Part Start */
-
+#Banner{
+    padding: 1000px 0px;
+    background: #teal;
+}
 /* Banner Part Ends */

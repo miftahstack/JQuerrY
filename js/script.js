@@ -14,5 +14,15 @@ $(function(){
 
 
 // Buttonss Fade In
-
+$(function(){
+    $("#fadeIn").click(function(){
+        $(".box").fadeIn(1000)
+    })
+    $("#fadeOut").click(function(){
+        $(".box").fadeOut(1000)
+    })
+    $("#InOut").click(function(){
+        $(".box").fadeToggle(1000)
+    })
+})
 // Buttonss Fade Out

@@ -38,4 +38,4 @@ JQ(".box").fadeOut(500);
 Contributions are welcome! If you find a bug or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Author
-Developed by [MiftahStack](https://miftahstack.github.io/).
+Developed by [Miftahstack](https://miftahstack.github.io/).

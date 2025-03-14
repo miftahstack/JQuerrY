@@ -16,24 +16,6 @@ To use JQuerrY in your project, include the following script in your HTML file:
 <script src="https://miftahstack.github.io/JQuerrY/jquerry.min.js"></script>
 ```
 
-### Usage
-#### Selecting Elements
-```js
-JQ(".my-class").css("color", "red");
-```
-
-#### Event Handling
-```js
-JQ("#my-button").on("click", function() {
-    alert("Button clicked!");
-});
-```
-
-#### Animations
-```js
-JQ(".box").fadeOut(500);
-```
-
 ## Contributing
 Contributions are welcome! If you find a bug or have suggestions for improvements, feel free to open an issue or submit a pull request.
 

@@ -20,4 +20,4 @@ To use JQuerrY in your project, include the following script in your HTML file:
 Contributions are welcome! If you find a bug or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Author
-Developed by [Miftahstack](https://miftahstack.github.com/).
+Developed by [Miftahstack](https://github.com/miftahstack).
